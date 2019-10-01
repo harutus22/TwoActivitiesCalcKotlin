@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwoActivitiesCalcKotlin</string>
+    <string name="first_number">First Number</string>
+    <string name="add_second_number">Add second number</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+</resources>
